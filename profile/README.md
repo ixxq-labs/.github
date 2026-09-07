@@ -1,3 +1,3 @@
-# xrryx labs
+# xlastz labs
 
-Packages and tools by [@xrryx](https://github.com/xrryx).
+Packages and tools by [@xlastz](https://github.com/xlastz).
