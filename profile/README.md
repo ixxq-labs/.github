@@ -1,3 +1,3 @@
-# xlastz labs
+# ixxq labs
 
-Packages and tools by [@xlastz](https://github.com/xlastz).
+Packages and tools by [@ixxq](https://github.com/ixxq).
