@@ -1,3 +1,3 @@
-# lemtoc labs
+# xrryx labs
 
-Packages and tools by [@lemtoc](https://github.com/lemtoc).
+Packages and tools by [@xrryx](https://github.com/xrryx).
